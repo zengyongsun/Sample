@@ -1,0 +1,18 @@
+## gson
+https://github.com/google/gson
+
+## 网络框架
+https://github.com/square/retrofit
+https://github.com/square/okhttp
+
+## 日志框架
+https://github.com/orhanobut/logger
+
+
+## Rx
+https://github.com/ReactiveX/RxAndroid
+https://github.com/ReactiveX/RxJava
+
+## butterknife
+https://github.com/JakeWharton/butterknife
+在module中使用，annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1' 放在app工程下
